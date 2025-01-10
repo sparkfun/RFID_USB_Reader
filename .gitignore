@@ -1,21 +1,55 @@
-# For PCBs designed using KiCad: http://www.kicad.org/
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
 
-# Temporary files
-*.000
-*.bak
-*.bck
-*.kicad_pcb-bak
-*~
-_autosave-*
-*.tmp
+#KiCad Backup files
+*.kicad_prl
+fp-info-cache
+sym-lib-table
+~*.lck
+*-bak
+*-backups
+*-cache*
+*-bak*
+_autosave*
+\#auto_saved_files\#
 
-# Netlist files (exported from Eeschema)
-*.net
+#Eagle Backup files
+*.s#?
+*.b#?
+*.l#?
+*.lck
 
-# Autorouter files (exported from Pcbnew)
-*.dsn
-*.ses
+# Folder config file
+Desktop.ini
 
-# Exported BOM files
-*.xml
-*.csv
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must ends with two \r.
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
