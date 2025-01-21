@@ -1716,6 +1716,203 @@
 				)
 			)
 		)
+		(symbol "SparkFun-Connector:Conn_01x04"
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x04"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "SparkFun-Connector:1x04"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "SparkFun connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x04_1_1"
+				(rectangle
+					(start -1.27 -4.953)
+					(end 0 -5.207)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 2.667)
+					(end 0 2.413)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 3.81)
+					(end 1.27 -6.35)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 0)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "SparkFun-Connector:Conn_01x05_2.0mm_SMD_Pin1RightDown"
 			(pin_names
 				(offset 1.016) hide)
@@ -2235,319 +2432,6 @@
 						)
 					)
 					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "SparkFun-Connector:Conn_01x08"
-			(pin_names
-				(offset 1.016) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x08"
-				(at 0 -12.7 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "SparkFun-Connector:1x08"
-				(at 0 -15.24 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 -17.78 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 -20.32 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "SparkFun connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Conn_01x08_1_1"
-				(rectangle
-					(start -1.27 -10.033)
-					(end 0 -10.287)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -7.493)
-					(end 0 -7.747)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -4.953)
-					(end 0 -5.207)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 2.667)
-					(end 0 2.413)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 5.207)
-					(end 0 4.953)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 7.747)
-					(end 0 7.493)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 8.89)
-					(end 1.27 -11.43)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at -5.08 7.62 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 5.08 0)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 2.54 0)
-					(length 3.81)
-					(name "Pin_3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -5.08 0)
-					(length 3.81)
-					(name "Pin_6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -7.62 0)
-					(length 3.81)
-					(name "Pin_7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -10.16 0)
-					(length 3.81)
-					(name "Pin_8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5190,26 +5074,6 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 127) (xy 210.82 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0265013c-821e-401e-8a95-2e7bb146fdcf")
-	)
-	(wire
-		(pts
-			(xy 208.28 116.84) (xy 209.55 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "04e5b231-6e80-451b-8359-19badde6626f")
-	)
-	(wire
-		(pts
 			(xy 60.96 77.47) (xy 55.88 77.47)
 		)
 		(stroke
@@ -5217,6 +5081,16 @@
 			(type default)
 		)
 		(uuid "0880cbae-cfb5-494e-9122-a506b278d9da")
+	)
+	(wire
+		(pts
+			(xy 209.55 119.38) (xy 209.55 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a3c82a2-da43-4047-bfc3-70f203b6b43e")
 	)
 	(polyline
 		(pts
@@ -5237,16 +5111,6 @@
 			(type default)
 		)
 		(uuid "0cdaaf2f-0a98-4b15-981d-942edbafcf1d")
-	)
-	(wire
-		(pts
-			(xy 209.55 116.84) (xy 209.55 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0d8fe60f-1db7-4f97-91a4-2314fc68cf6e")
 	)
 	(wire
 		(pts
@@ -5357,6 +5221,16 @@
 			(type default)
 		)
 		(uuid "3a69f09c-ab56-42b4-aec5-5942a2ef2e29")
+	)
+	(wire
+		(pts
+			(xy 208.28 129.54) (xy 210.82 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b08a20f-11fb-4da3-8198-3f66edd57cbf")
 	)
 	(wire
 		(pts
@@ -5480,16 +5354,6 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 119.38) (xy 209.55 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "60894c5e-dd57-4bd7-82eb-94424a0f3d5e")
-	)
-	(wire
-		(pts
 			(xy 132.08 152.4) (xy 132.08 153.67)
 		)
 		(stroke
@@ -5506,7 +5370,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "64ed0bc1-287d-4cba-84f2-9a0c4a5efb88")
+		(uuid "6670f75e-14d4-43f6-a7bf-c324d741bea4")
 	)
 	(wire
 		(pts
@@ -5550,16 +5414,6 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 124.46) (xy 210.82 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7cfc7412-c19d-490b-a39c-e11fdcd56344")
-	)
-	(wire
-		(pts
 			(xy 214.63 43.18) (xy 214.63 44.45)
 		)
 		(stroke
@@ -5567,6 +5421,16 @@
 			(type default)
 		)
 		(uuid "7dcae699-afaf-4587-8595-5bb85582b2f4")
+	)
+	(wire
+		(pts
+			(xy 208.28 134.62) (xy 210.82 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86cb1df4-32d1-43f5-8c9a-d5f7bf761999")
 	)
 	(wire
 		(pts
@@ -5650,6 +5514,16 @@
 	)
 	(wire
 		(pts
+			(xy 208.28 137.16) (xy 210.82 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c75125c-caad-4c2d-b237-dcea9edede10")
+	)
+	(wire
+		(pts
 			(xy 109.22 140.97) (xy 107.95 140.97)
 		)
 		(stroke
@@ -5670,13 +5544,13 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 129.54) (xy 210.82 129.54)
+			(xy 208.28 132.08) (xy 210.82 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a6df3c06-810f-4b76-84d0-ab4e642708d2")
+		(uuid "a78f6a83-fbc1-4954-9259-3106954e70a6")
 	)
 	(wire
 		(pts
@@ -5700,6 +5574,16 @@
 	)
 	(wire
 		(pts
+			(xy 208.28 124.46) (xy 210.82 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8e27937-3b82-47b0-88eb-6fa373d46094")
+	)
+	(wire
+		(pts
 			(xy 48.26 156.21) (xy 46.99 156.21)
 		)
 		(stroke
@@ -5717,6 +5601,26 @@
 			(type default)
 		)
 		(uuid "b6119348-4f25-4119-adfe-03c94f47754e")
+	)
+	(wire
+		(pts
+			(xy 208.28 127) (xy 210.82 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b83e1285-18ab-4a64-9b89-8664d0a91ae5")
+	)
+	(wire
+		(pts
+			(xy 208.28 121.92) (xy 209.55 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bcd17742-1a70-4b6c-b8e0-a7de974c4f6e")
 	)
 	(wire
 		(pts
@@ -5760,16 +5664,6 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 134.62) (xy 210.82 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c8606dad-2ef2-4e57-9ead-21812ff93684")
-	)
-	(wire
-		(pts
 			(xy 54.61 58.42) (xy 78.74 58.42)
 		)
 		(stroke
@@ -5810,16 +5704,6 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 132.08) (xy 210.82 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d49dcca5-c04e-4ae4-a797-a7f968eae350")
-	)
-	(wire
-		(pts
 			(xy 46.99 153.67) (xy 48.26 153.67)
 		)
 		(stroke
@@ -5827,16 +5711,6 @@
 			(type default)
 		)
 		(uuid "d4d813f7-6189-4fa2-8466-7b53f5de2a73")
-	)
-	(wire
-		(pts
-			(xy 208.28 121.92) (xy 210.82 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d9169e15-69e9-403f-a658-16019fd49bde")
 	)
 	(wire
 		(pts
@@ -5940,6 +5814,16 @@
 	)
 	(wire
 		(pts
+			(xy 209.55 121.92) (xy 209.55 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1a88008-b271-4bc7-90d9-9ed7d9931c74")
+	)
+	(wire
+		(pts
 			(xy 76.2 49.53) (xy 76.2 60.96)
 		)
 		(stroke
@@ -5980,7 +5864,7 @@
 	)
 	(text "External Header"
 		(exclude_from_sim no)
-		(at 204.47 105.41 0)
+		(at 210.312 107.188 0)
 		(effects
 			(font
 				(size 2 2)
@@ -5997,50 +5881,6 @@
 			)
 		)
 		(uuid "bcb209f1-e13c-42fd-baae-3e712ecb0f07")
-	)
-	(global_label "ANT1"
-		(shape input)
-		(at 210.82 129.54 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "021cec17-b073-403e-91a5-d33d50c677fd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 218.4014 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DATA0"
-		(shape input)
-		(at 210.82 124.46 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "02441dbb-eb77-44db-9911-a17b7112abe3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 219.4295 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
 	)
 	(global_label "DATA0"
 		(shape input)
@@ -6152,9 +5992,9 @@
 			)
 		)
 	)
-	(global_label "CARD_PRESENT"
+	(global_label "DATA1"
 		(shape input)
-		(at 210.82 134.62 0)
+		(at 210.82 132.08 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6162,9 +6002,31 @@
 			)
 			(justify left)
 		)
-		(uuid "78fcc8e6-25b5-460b-bae6-3d2b86172c2b")
+		(uuid "4be14597-bb43-49f5-a0ae-4dcf470dfc58")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 228.017 134.62 0)
+			(at 219.4295 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DATA0"
+		(shape input)
+		(at 210.82 129.54 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6e154dc0-dba8-4c80-b6fe-13f170005c7a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 219.4295 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6176,7 +6038,7 @@
 	)
 	(global_label "ANT2"
 		(shape input)
-		(at 210.82 132.08 0)
+		(at 210.82 134.62 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6184,9 +6046,53 @@
 			)
 			(justify left)
 		)
-		(uuid "921c0359-6c0f-42b7-92d7-cd7dd2a21f1b")
+		(uuid "6e292d4b-15ed-48fc-8229-a1a68199c201")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 218.4014 132.08 0)
+			(at 218.4014 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TAG_IN_RANGE"
+		(shape input)
+		(at 210.82 127 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8f76b840-1c27-45bf-8595-b3c94c9e255b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 227.11 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ANT1"
+		(shape input)
+		(at 210.82 137.16 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a4b57908-22f5-4452-aca1-55ce749966cb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 218.4014 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6218,9 +6124,9 @@
 			)
 		)
 	)
-	(global_label "TAG_IN_RANGE"
+	(global_label "CARD_PRESENT"
 		(shape input)
-		(at 210.82 121.92 0)
+		(at 210.82 124.46 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6228,9 +6134,9 @@
 			)
 			(justify left)
 		)
-		(uuid "d3287140-6f36-4c59-96db-7ce58eb5495a")
+		(uuid "d49fea90-1f7d-4614-b770-47f71292b8c4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 227.11 121.92 0)
+			(at 228.017 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6306,25 +6212,77 @@
 			)
 		)
 	)
-	(global_label "DATA1"
-		(shape input)
-		(at 210.82 127 0)
+	(symbol
+		(lib_id "SparkFun-Connector:Conn_01x04")
+		(at 203.2 134.62 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ff2faaf2-ae8c-48bc-807e-7553e7864c9a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 219.4295 127 0)
+		(uuid "073332df-1bee-4dac-8948-1e5e48565edc")
+		(property "Reference" "J4"
+			(at 203.2 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x04"
+			(at 203.2 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SparkFun-Connector:1x04"
+			(at 203.2 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 203.2 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 203.2 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "93c745d2-a675-495f-91a2-68435615f040")
+		)
+		(pin "2"
+			(uuid "d6274374-5e2b-41ca-9f53-04d0b40a05a7")
+		)
+		(pin "4"
+			(uuid "87c58710-c2b6-4f86-99b4-171082e948bb")
+		)
+		(pin "3"
+			(uuid "bf5899d3-4ff7-4308-a6a6-e2cca7ee7cd3")
+		)
+		(instances
+			(project "SparkFun_USB_RFID_Reader"
+				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
+					(reference "J4")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -6384,7 +6342,7 @@
 			)
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "FID4")
 					(unit 1)
@@ -6451,7 +6409,7 @@
 			(uuid "5622d5dc-b514-4176-81b5-0a0f25c3995c")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "#PWR02")
 					(unit 1)
@@ -6469,7 +6427,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11ecc2dc-eb96-41e0-856b-90a919fa4aea")
-		(property "Reference" "#PWR13"
+		(property "Reference" "#PWR013"
 			(at 46.99 148.59 0)
 			(effects
 				(font
@@ -6518,9 +6476,9 @@
 			(uuid "fcf13245-3053-425a-b2ea-97a942f9151f")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
-					(reference "#PWR13")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -6536,7 +6494,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "124a6c88-b808-4fa8-95e9-a8bdc16ae1f1")
-		(property "Reference" "#PWR9"
+		(property "Reference" "#PWR09"
 			(at 109.22 143.51 0)
 			(effects
 				(font
@@ -6585,9 +6543,9 @@
 			(uuid "7643b190-cc36-4906-afba-a80f3e4952de")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
-					(reference "#PWR9")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -6649,9 +6607,76 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "G2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SparkFun-PowerSymbol:5V")
+		(at 209.55 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "16ee0738-0934-4af4-b981-28c57a8f85de")
+		(property "Reference" "#PWR018"
+			(at 209.55 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "5V"
+			(at 209.55 113.03 0)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 209.55 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 209.55 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"5V\""
+			(at 209.55 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d9374d58-1909-4035-a3b1-9ccf59e8aec9")
+		)
+		(instances
+			(project "SparkFun_USB_RFID_Reader"
+				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -6731,7 +6756,7 @@
 			(uuid "c210af07-7eca-4d89-aecd-94228c187b53")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "Q1")
 					(unit 1)
@@ -6798,7 +6823,7 @@
 			(uuid "d32922a6-00b1-40bb-8b08-a6cb4f7cf499")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "#PWR012")
 					(unit 1)
@@ -6895,7 +6920,7 @@
 			(uuid "15bea34b-64c9-4c9e-bbbb-f1766d43e014")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "C2")
 					(unit 1)
@@ -6982,9 +7007,83 @@
 			(uuid "f47d9f56-5777-4beb-ba36-64d63d9879ff")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SparkFun-Connector:Conn_01x04")
+		(at 203.2 124.46 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2c090871-8c88-44ce-a6ed-9953f64abe4e")
+		(property "Reference" "J6"
+			(at 203.2 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x04"
+			(at 203.2 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SparkFun-Connector:1x04"
+			(at 203.2 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 203.2 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 203.2 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "84406d5d-c164-45ea-a3d6-91a2ccb685e2")
+		)
+		(pin "2"
+			(uuid "ca6e1ed5-7c45-4782-80a1-641b82d2eefa")
+		)
+		(pin "4"
+			(uuid "663df74b-9b56-4b97-abd5-657d852e0047")
+		)
+		(pin "3"
+			(uuid "95ca74c3-6f6e-485a-883c-816ed9307f49")
+		)
+		(instances
+			(project "SparkFun_USB_RFID_Reader"
+				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -7046,7 +7145,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "FID1")
 					(unit 1)
@@ -7125,7 +7224,7 @@
 			(uuid "beddffbd-8142-4718-97d6-08d627b37258")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "R1")
 					(unit 1)
@@ -7192,7 +7291,7 @@
 			(uuid "609496a8-d638-4fb1-ac0f-fe15133edc7f")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "#PWR03")
 					(unit 1)
@@ -7259,7 +7358,7 @@
 			(uuid "63b746f9-4ef7-4060-8957-04507d626a0e")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "#PWR011")
 					(unit 1)
@@ -7352,7 +7451,7 @@
 			(uuid "a04eb64b-cec5-41d9-9f75-09284cf467e2")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "J2")
 					(unit 1)
@@ -7419,7 +7518,7 @@
 			(uuid "c712656b-be53-45bb-9302-7d0f1e04bf6d")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "#PWR07")
 					(unit 1)
@@ -7483,7 +7582,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "ST1")
 					(unit 1)
@@ -7501,7 +7600,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b0e1c5e-a517-4107-ac3f-cb2cea012a43")
-		(property "Reference" "#PWR17"
+		(property "Reference" "#PWR017"
 			(at 130.81 53.34 0)
 			(effects
 				(font
@@ -7550,9 +7649,9 @@
 			(uuid "e47ed2fd-c20a-4c11-8821-ea24939dd495")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
-					(reference "#PWR17")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -7647,7 +7746,7 @@
 			(uuid "2c1c288e-14f0-47a6-929d-10f351a52af2")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "C4")
 					(unit 1)
@@ -7760,7 +7859,7 @@
 			(uuid "919f5d9c-d20e-4f69-9973-bbfff545bf84")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "J1")
 					(unit 1)
@@ -7831,7 +7930,7 @@
 			(uuid "5048d28e-e6ce-42a4-b02b-7ace9091ccb8")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "JP1")
 					(unit 1)
@@ -7898,7 +7997,7 @@
 			(uuid "4dbf3e12-c38d-4f5e-9ed7-952324545569")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "#PWR016")
 					(unit 1)
@@ -7977,7 +8076,7 @@
 			(uuid "7e269c9f-e36b-43b3-bda7-79cbbf20a6d8")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "D1")
 					(unit 1)
@@ -7995,7 +8094,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "90086e91-f9aa-4187-8604-1a12a4167808")
-		(property "Reference" "#PWR4"
+		(property "Reference" "#PWR04"
 			(at 88.9 39.37 0)
 			(effects
 				(font
@@ -8044,9 +8143,9 @@
 			(uuid "8b5adf91-db33-4813-8900-75294768a269")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
-					(reference "#PWR4")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -8123,7 +8222,7 @@
 			(uuid "7070cf21-e761-4d87-ad54-ab3af686a8b0")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "R3")
 					(unit 1)
@@ -8221,7 +8320,7 @@
 			(uuid "21ebd8ba-5f8c-4700-8e8a-14de0f1f1f8e")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "C1")
 					(unit 1)
@@ -8300,7 +8399,7 @@
 			(uuid "2538b1d9-d3ea-469c-8fb6-6fdb81ca7f4e")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "R2")
 					(unit 1)
@@ -8367,7 +8466,7 @@
 			(uuid "c6bece13-cd3d-4304-b318-a0f899aa7c96")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "#PWR014")
 					(unit 1)
@@ -8446,7 +8545,7 @@
 			(uuid "aae880e7-ff0d-4307-b6fa-fa90db4c8328")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "BZ1")
 					(unit 1)
@@ -8567,7 +8666,7 @@
 			(uuid "d6c06b03-37e8-417d-9194-25ee7596e4e9")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "U3")
 					(unit 1)
@@ -8631,7 +8730,7 @@
 			)
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "ST3")
 					(unit 1)
@@ -8695,7 +8794,7 @@
 			)
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "ST2")
 					(unit 1)
@@ -8759,7 +8858,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "G1")
 					(unit 1)
@@ -8826,7 +8925,7 @@
 			(uuid "76d9794f-3117-4262-be99-24965da88c50")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "#PWR01")
 					(unit 1)
@@ -8844,7 +8943,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c4c352d9-c646-4b67-af60-4a8f31bdc41a")
-		(property "Reference" "#PWR10"
+		(property "Reference" "#PWR010"
 			(at 214.63 46.99 0)
 			(effects
 				(font
@@ -8893,9 +8992,9 @@
 			(uuid "efa589de-a959-4b6f-9c2b-5a92fe7027ed")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
-					(reference "#PWR10")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -8970,7 +9069,7 @@
 			(uuid "041ba67e-0136-4d9b-9320-2b6377a2f4de")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "R4")
 					(unit 1)
@@ -8988,7 +9087,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ce381263-d579-4f81-bb01-863fbcb9fbc9")
-		(property "Reference" "#PWR15"
+		(property "Reference" "#PWR015"
 			(at 132.08 149.86 0)
 			(effects
 				(font
@@ -9037,9 +9136,9 @@
 			(uuid "3d263a03-bc75-481a-8cb2-93683f3a41cd")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
-					(reference "#PWR15")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -9108,143 +9207,9 @@
 			(uuid "a91792b6-fa2d-451b-8fd4-3d18819aedb1")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "JP2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SparkFun-PowerSymbol:GND")
-		(at 209.55 135.89 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d2c3d939-e6a1-4d10-b0f2-5a41f5410f14")
-		(property "Reference" "#PWR06"
-			(at 209.55 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 209.55 139.7 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 209.55 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 209.55 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 209.55 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d5367327-447a-4ef0-aea2-2794761067fb")
-		)
-		(instances
-			(project "RFID_USB_Reader-v20"
-				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
-					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SparkFun-PowerSymbol:5V")
-		(at 209.55 114.3 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d7f2b586-9111-4846-8dfa-7585e0613191")
-		(property "Reference" "#PWR5"
-			(at 209.55 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "5V"
-			(at 209.55 110.49 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 209.55 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 209.55 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"5V\""
-			(at 209.55 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c52fa746-cc61-4f43-b651-37f8aa8f8829")
-		)
-		(instances
-			(project "RFID_USB_Reader-v20"
-				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
-					(reference "#PWR5")
 					(unit 1)
 				)
 			)
@@ -9306,9 +9271,76 @@
 			)
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "FID2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SparkFun-PowerSymbol:GND")
+		(at 209.55 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d9027ce6-5fc3-4995-a385-38a9750a514e")
+		(property "Reference" "#PWR019"
+			(at 209.55 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 209.55 142.24 0)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 209.55 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 209.55 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 209.55 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d352918d-21cf-4759-8b74-b71c9dd53b8b")
+		)
+		(instances
+			(project "SparkFun_USB_RFID_Reader"
+				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -9374,95 +9406,9 @@
 			(uuid "18714f59-64b5-403d-80f6-cfca8ddd5ef3")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "#PWR08")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SparkFun-Connector:Conn_01x08")
-		(at 203.2 127 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e0918c88-3b71-446c-bf41-f4585664600b")
-		(property "Reference" "J5"
-			(at 203.2 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x08"
-			(at 203.2 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SparkFun-Connector:1x08"
-			(at 203.2 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 203.2 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 203.2 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "6"
-			(uuid "e4d5c06e-486a-45dc-a255-9a29ddf9740e")
-		)
-		(pin "5"
-			(uuid "ef50497d-2a4c-4802-91eb-edf26e885779")
-		)
-		(pin "1"
-			(uuid "f5369635-7ad8-4710-8e38-b05d7c06fa29")
-		)
-		(pin "8"
-			(uuid "bcaa3ff8-35cb-409c-aac7-f2bb78096fcf")
-		)
-		(pin "2"
-			(uuid "7912074a-6565-41ec-8e77-bb7932976cff")
-		)
-		(pin "3"
-			(uuid "388d1544-ad7e-4e57-a3d7-7c67a92f1fb6")
-		)
-		(pin "7"
-			(uuid "f5ed2e0a-9460-42be-a859-4f1a8ebdce06")
-		)
-		(pin "4"
-			(uuid "6050b5b0-79a7-4e8b-8d95-378befadef01")
-		)
-		(instances
-			(project "RFID_USB_Reader-v20"
-				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
-					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -9557,7 +9503,7 @@
 			(uuid "40e05458-401a-4487-a8a6-625873b7ea7a")
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "C3")
 					(unit 1)
@@ -9621,7 +9567,7 @@
 			)
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "ST4")
 					(unit 1)
@@ -9691,7 +9637,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "O1")
 					(unit 1)
@@ -9755,7 +9701,7 @@
 			)
 		)
 		(instances
-			(project "RFID_USB_Reader-v20"
+			(project "SparkFun_USB_RFID_Reader"
 				(path "/a9fcf3c6-892d-4d83-97ba-5a5ac72cea42"
 					(reference "FID3")
 					(unit 1)
