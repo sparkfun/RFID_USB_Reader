@@ -1,0 +1,17 @@
+2025-01-21 14:59:33,521 - cammer_logger - INFO - Running CAMmer
+2025-01-21 14:59:33,522 - cammer_logger - INFO - ['-l', 'F.Cu,B.Cu,F.Paste,B.Paste,F.Silkscreen,B.Silkscreen,F.Mask,B.Mask', '-e', 'Edge.Cuts,User.Comments']
+2025-01-21 14:59:33,522 - cammer_logger - INFO - CAMMER START: 2025-01-21T14:59:33.522219
+2025-01-21 14:59:33,852 - cammer_logger - INFO - 
+START: 2025-01-21T14:59:33.522219
+Renaming C:\Users\nathan.seidle\Dropbox\Projects\RFID_USB_Reader\Hardware\Production\SparkFun_USB_RFID_Reader_panelized-F_Cu.gbr to C:\Users\nathan.seidle\Dropbox\Projects\RFID_USB_Reader\Hardware\Production\SparkFun_USB_RFID_Reader_panelized.GTL
+Renaming C:\Users\nathan.seidle\Dropbox\Projects\RFID_USB_Reader\Hardware\Production\SparkFun_USB_RFID_Reader_panelized-B_Cu.gbr to C:\Users\nathan.seidle\Dropbox\Projects\RFID_USB_Reader\Hardware\Production\SparkFun_USB_RFID_Reader_panelized.GBL
+Renaming C:\Users\nathan.seidle\Dropbox\Projects\RFID_USB_Reader\Hardware\Production\SparkFun_USB_RFID_Reader_panelized-F_Paste.gbr to C:\Users\nathan.seidle\Dropbox\Projects\RFID_USB_Reader\Hardware\Production\SparkFun_USB_RFID_Reader_panelized.GTP
+Renaming C:\Users\nathan.seidle\Dropbox\Projects\RFID_USB_Reader\Hardware\Production\SparkFun_USB_RFID_Reader_panelized-B_Paste.gbr to C:\Users\nathan.seidle\Dropbox\Projects\RFID_USB_Reader\Hardware\Production\SparkFun_USB_RFID_Reader_panelized.GBP
+Renaming C:\Users\nathan.seidle\Dropbox\Projects\RFID_USB_Reader\Hardware\Production\SparkFun_USB_RFID_Reader_panelized-F_Silkscreen.gbr to C:\Users\nathan.seidle\Dropbox\Projects\RFID_USB_Reader\Hardware\Production\SparkFun_USB_RFID_Reader_panelized.GTO
+Renaming C:\Users\nathan.seidle\Dropbox\Projects\RFID_USB_Reader\Hardware\Production\SparkFun_USB_RFID_Reader_panelized-B_Silkscreen.gbr to C:\Users\nathan.seidle\Dropbox\Projects\RFID_USB_Reader\Hardware\Production\SparkFun_USB_RFID_Reader_panelized.GBO
+Renaming C:\Users\nathan.seidle\Dropbox\Projects\RFID_USB_Reader\Hardware\Production\SparkFun_USB_RFID_Reader_panelized-F_Mask.gbr to C:\Users\nathan.seidle\Dropbox\Projects\RFID_USB_Reader\Hardware\Production\SparkFun_USB_RFID_Reader_panelized.GTS
+Renaming C:\Users\nathan.seidle\Dropbox\Projects\RFID_USB_Reader\Hardware\Production\SparkFun_USB_RFID_Reader_panelized-B_Mask.gbr to C:\Users\nathan.seidle\Dropbox\Projects\RFID_USB_Reader\Hardware\Production\SparkFun_USB_RFID_Reader_panelized.GBS
+Renaming C:\Users\nathan.seidle\Dropbox\Projects\RFID_USB_Reader\Hardware\Production\SparkFun_USB_RFID_Reader_panelized-Edge_Cuts.gbr to C:\Users\nathan.seidle\Dropbox\Projects\RFID_USB_Reader\Hardware\Production\SparkFun_USB_RFID_Reader_panelized.GKO
+Drill report: C:\Users\nathan.seidle\Dropbox\Projects\RFID_USB_Reader\Hardware\Production\drill_report.rpt
+
+2025-01-21 14:59:34,891 - cammer_logger - INFO - CAMmer complete
