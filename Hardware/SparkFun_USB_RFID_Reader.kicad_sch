@@ -1913,7 +1913,7 @@
 				)
 			)
 		)
-		(symbol "SparkFun-Connector:Conn_01x05_2.0mm_SMD_Pin1RightDown"
+		(symbol "SparkFun-Connector:Conn_01x05_2.0mm"
 			(pin_names
 				(offset 1.016) hide)
 			(exclude_from_sim no)
@@ -1935,7 +1935,7 @@
 					)
 				)
 			)
-			(property "Footprint" "SparkFun-Connector:1x05_2.0mm_SMD_Pin1RightDown"
+			(property "Footprint" "SparkFun-Connector:1x05_2.0mm"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -1944,7 +1944,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://drawings-pdf.s3.amazonaws.com/10489.pdf"
+			(property "Datasheet" "https://www.mouser.com/datasheet/2/837/bf085-1994323.pdf"
 				(at 0 -12.7 0)
 				(effects
 					(font
@@ -1953,7 +1953,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "5 pos 2mm pitch 4.4mm tall female SMD header."
+			(property "Description" "5 pos 2mm pitch 4.4mm tall female header."
 				(at 0 -15.24 0)
 				(effects
 					(font
@@ -1962,7 +1962,7 @@
 					(hide yes)
 				)
 			)
-			(property "PROD_ID" "CONN-09344"
+			(property "PROD_ID" "CONN-09000"
 				(at 0 -17.78 0)
 				(effects
 					(font
@@ -1971,7 +1971,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "SparkFun 5 pin 2mm SMD Connector"
+			(property "ki_keywords" "SparkFun 5 pin 2mm Connector"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1989,7 +1989,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "Conn_01x05_2.0mm_SMD_Pin1RightDown_1_1"
+			(symbol "Conn_01x05_2.0mm_1_1"
 				(rectangle
 					(start -1.27 -4.953)
 					(end 0 -5.207)
@@ -2148,7 +2148,7 @@
 				)
 			)
 		)
-		(symbol "SparkFun-Connector:Conn_01x07_2.0mm_SMD_Pin1RightDown"
+		(symbol "SparkFun-Connector:Conn_01x07_2.0mm"
 			(pin_names
 				(offset 1.016) hide)
 			(exclude_from_sim no)
@@ -2170,7 +2170,7 @@
 					)
 				)
 			)
-			(property "Footprint" "SparkFun-Connector:1x07_2.0mm_SMD_Pin1RightDown"
+			(property "Footprint" "SparkFun-Connector:1x07_2.0mm"
 				(at 0 -15.24 0)
 				(effects
 					(font
@@ -2179,7 +2179,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://drawings-pdf.s3.amazonaws.com/10489.pdf"
+			(property "Datasheet" "https://www.mouser.com/datasheet/2/837/bf085-1994323.pdf"
 				(at 0 -17.78 0)
 				(effects
 					(font
@@ -2188,7 +2188,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "7 pos 2mm pitch 4.4mm tall female SMD header."
+			(property "Description" "7 pos 2mm pitch 4.4mm tall female"
 				(at 0 -20.32 0)
 				(effects
 					(font
@@ -2197,7 +2197,7 @@
 					(hide yes)
 				)
 			)
-			(property "PROD_ID" "CONN-09345"
+			(property "PROD_ID" "CONN-09001"
 				(at 0 -12.7 0)
 				(effects
 					(font
@@ -2224,7 +2224,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "Conn_01x07_2.0mm_SMD_Pin1RightDown_1_1"
+			(symbol "Conn_01x07_2.0mm_1_1"
 				(rectangle
 					(start -1.27 -7.493)
 					(end 0 -7.747)
@@ -6931,7 +6931,7 @@
 		)
 	)
 	(symbol
-		(lib_id "SparkFun-Connector:Conn_01x05_2.0mm_SMD_Pin1RightDown")
+		(lib_id "SparkFun-Connector:Conn_01x05_2.0mm")
 		(at 53.34 151.13 0)
 		(mirror x)
 		(unit 1)
@@ -6957,7 +6957,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x05_2.0mm_SMD_Pin1RightDown"
+		(property "Footprint" "SparkFun-Connector:1x05_2.0mm"
 			(at 53.34 140.97 0)
 			(effects
 				(font
@@ -6966,7 +6966,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://drawings-pdf.s3.amazonaws.com/10489.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/837/bf085-1994323.pdf"
 			(at 53.34 138.43 0)
 			(effects
 				(font
@@ -6975,7 +6975,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "5 pos 2mm pitch 4.4mm tall female SMD header."
+		(property "Description" "5 pos 2mm pitch 4.4mm tall female header."
 			(at 53.34 135.89 0)
 			(effects
 				(font
@@ -6984,7 +6984,7 @@
 				(hide yes)
 			)
 		)
-		(property "PROD_ID" "CONN-09344"
+		(property "PROD_ID" "CONN-09000"
 			(at 53.34 133.35 0)
 			(effects
 				(font
@@ -7369,7 +7369,7 @@
 		)
 	)
 	(symbol
-		(lib_id "SparkFun-Connector:Conn_01x07_2.0mm_SMD_Pin1RightDown")
+		(lib_id "SparkFun-Connector:Conn_01x07_2.0mm")
 		(at 102.87 148.59 0)
 		(mirror y)
 		(unit 1)
@@ -7395,7 +7395,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Connector:1x07_2.0mm_SMD_Pin1RightDown"
+		(property "Footprint" "SparkFun-Connector:1x07_2.0mm"
 			(at 102.87 163.83 0)
 			(effects
 				(font
@@ -7404,7 +7404,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://drawings-pdf.s3.amazonaws.com/10489.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/837/bf085-1994323.pdf"
 			(at 102.87 166.37 0)
 			(effects
 				(font
@@ -7413,7 +7413,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "7 pos 2mm pitch 4.4mm tall female SMD header."
+		(property "Description" "7 pos 2mm pitch 4.4mm tall female"
 			(at 102.87 168.91 0)
 			(effects
 				(font
@@ -7422,7 +7422,7 @@
 				(hide yes)
 			)
 		)
-		(property "PROD_ID" "CONN-09345"
+		(property "PROD_ID" "CONN-09001"
 			(at 102.87 161.29 0)
 			(effects
 				(font
