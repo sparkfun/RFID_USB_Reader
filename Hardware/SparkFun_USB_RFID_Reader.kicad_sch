@@ -5538,7 +5538,7 @@
 		)
 		(symbol "SparkFun-RF:ID-2/12/20_Outline"
 			(exclude_from_sim no)
-			(in_bom yes)
+			(in_bom no)
 			(on_board yes)
 			(property "Reference" "O"
 				(at -12.192 8.89 0)
