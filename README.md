@@ -7,6 +7,11 @@ SparkFun RFID USB Reader
 
 The SparkFun RFID USB Reader is a simple to use, USB to serial base unit for the ID-3LA, ID-12LA, and ID-20LA readers.
 
+Documentation
+-------------
+- **[Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-rfid-starter-kit-hookup-guide)** - The hookup guide for the SparkFun RFID USB Reader
+
+
 Repository Contents
 -------------------
 * **/Hardware** - All Eagle design files (.brd, .sch)
