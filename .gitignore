@@ -19,6 +19,12 @@
 ## BOM files
 *bom*
 
+<<<<<<< Updated upstream
+=======
+## VSCode directories
+.vscode
+
+>>>>>>> Stashed changes
 #################
 ## Eclipse
 #################
@@ -54,9 +60,39 @@ local.properties
 ## Eagle
 #############
 
+<<<<<<< Updated upstream
 # Ignore the board and schematic backup files
 *.b#?
 *.s#?
+=======
+# Ignore the board and schematic backup files and lock files
+*.b#?
+*.s#?
+*.l#?
+*.lck
+
+
+#############
+## KiCad
+#############
+
+*cache.lib
+*.kicad_pcb-bak
+*.net
+*.gbr
+*.drl
+
+#KiCad Backup files
+*.kicad_prl
+fp-info-cache
+~*.lck
+*-bak
+*-backups
+*-cache*
+*-bak*
+_autosave*
+\#auto_saved_files\#
+>>>>>>> Stashed changes
 
 
 #################
@@ -145,15 +181,82 @@ Backup*/
 UpgradeLog*.XML
 
 
+<<<<<<< Updated upstream
+=======
+# =========================
+# Operating System Files
+# =========================
+
+>>>>>>> Stashed changes
 ############
 ## Windows
 ############
 
 # Windows image file caches
 Thumbs.db
+<<<<<<< Updated upstream
+=======
+ehthumbs.db
+>>>>>>> Stashed changes
 
 # Folder config file
 Desktop.ini
+
+
+#############
+## Python
+#############
+
+<<<<<<< Updated upstream
+*.py[co]
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+=======
+#############
+## Mac OS
+#############
+>>>>>>> Stashed changes
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+
+#Translations
+*.mo
+
+#Mr Developer
+.mr.developer.cfg
+
+# Mac crap
+.DS_Store
+<<<<<<< Updated upstream
+=======
+
+# OSX
+# ===========
+.AppleDouble
+.LSOverride
+
+#############
+## Linux
+#############
+
+# backup files (*.bak on Win)
+*~
 
 
 #############
@@ -175,6 +278,9 @@ sdist
 develop-eggs
 .installed.cfg
 
+# Icon must ends with two \r.
+Icon
+
 # Installer logs
 pip-log.txt
 
@@ -182,11 +288,16 @@ pip-log.txt
 .coverage
 .tox
 
+# Thumbnails
+._*
+
 #Translations
 *.mo
 
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
 #Mr Developer
 .mr.developer.cfg
-
-# Mac crap
-.DS_Store
+>>>>>>> Stashed changes
