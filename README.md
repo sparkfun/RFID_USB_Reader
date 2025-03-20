@@ -14,11 +14,30 @@ Documentation
 
 Repository Contents
 -------------------
-* **/Hardware** - All Eagle design files (.brd, .sch)
+- **[/Hardware](/Hardware/)** - Hardware design files (.brd, .sch)
+- **[/Production](/Production/)** - Production files
+
+
+Product Variants
+----------------
+- [SEN-28020](https://www.sparkfun.com/sparkfun-rfid-usb-c-reader.html) - USB-C connector and CH340C converter
+- [SEN-09963](https://www.sparkfun.com/sparkfun-rfid-usb-reader.html) - Original product *(w/ USB mini-B connector and FTDI converter)*
+
+
+Version History
+---------------
+- [v10](https://github.com/sparkfun/RFID_USB_Reader/releases/tag/v10) - Initial Release
 
 
 License Information
 -------------------
-The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+
+This product is ***open source***!
+
+Please review the [`LICENSE.md`](./LICENSE.md) file for license information.
+
+If you have any questions or concerns about licensing, please contact technical support on our [SparkFun forums](https://forum.sparkfun.com/viewforum.php?f=152).
 
 Distributed as-is; no warranty is given.
+
+- Your friends at SparkFun.
